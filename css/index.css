@@ -1,0 +1,14 @@
+@import url("reset.css");
+@import url("typography.css");
+@import url("main_styles.css");
+@import url("slimbox/slimbox2.css");
+
+/* these are the available themes: uncomment the css for the theme you want to activate */
+
+
+@import url("red/styles.css");
+/*
+@import url("blue/styles.css");
+@import url("orange/styles.css");
+@import url("green/styles.css");
+*/

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">  <channel>
+    <title>IT-Tutorial.NET</title>
+    <link>
+	http://www.it-tutorial.net/pages/feed.xml</link>
+	<description>IT Tutorials, Guides, Tips, etc.</description>
+
+
+    <item>
+      <title>Highlights of Amazon's New Simple Email Service (SES)</title>
+
+      <description>
+The five adjectives that can be used to
+describe Amazon's new Simple Email Service (SES) are: simple,
+reliable, affordable, compatible, and scalable. While this email
+service is new, it promises to put positive aspects back into email
+marketing.	  
+	  </description>
+
+      <link>http://it-tutorial.net/pages/highlights-of-amazons-new-simple-email-service-ses.html</link>
+      <guid>http://it-tutorial.net/pages/highlights-of-amazons-new-simple-email-service-ses.html</guid>
+      <pubDate>Wed, 27 Jun 2012 12:59:00 +0100</pubDate>
+    </item>
+
+	   
+    <item>
+      <title>Subversion usage in ASP.NET Project Code Control</title>
+
+      <description>
+	Apache Subversion (commonly known as SVN, due to command 
+    line program name svn) is and revision control and software 
+    versioning system This  is open source software. Developers use Subversion
+    to keep current and history  of source code files, web pages, and software
+    documentation. Apache  Subversion is mostly-compatible 
+    with its predecessor which is also wide  spread, Concurrent Versions System.
+    Subversion was developed by CollabNet Inc. ... 
+	  </description>
+
+      <link>http://it-tutorial.net/pages/tutorial-subversion-usage-in-asp-net-project-code-control.html</link>
+      <guid>http://it-tutorial.net/pages/tutorial-subversion-usage-in-asp-net-project-code-control.html</guid>
+      <pubDate>Sat, 16 Jun 2012 12:59:00 +0100</pubDate>
+    </item>
+   
+   
+	
+  </channel>
+</rss>
+

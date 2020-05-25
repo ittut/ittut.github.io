@@ -1,0 +1,23 @@
+.pubs-content,
+.pubs-block,
+.social ul li,
+.box-content,
+.slide-desc {
+	display:inline;
+}
+
+.pubs-top,
+.pubs-bottom,
+.box-top,
+.box-bottom,
+.wl-top,
+.wl-bottom {
+	font-size:0;
+	line-height:0;
+}
+.jqueryslidemenu ul li a {
+	padding:3px 38px 9px 0;
+}
+.jqueryslidemenu { /* this applies only to ie7 */
+	margin-top:0;
+}

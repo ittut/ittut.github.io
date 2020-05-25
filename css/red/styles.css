@@ -1,0 +1,40 @@
+a, a:hover {
+	color:#d00000;
+}
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover {
+	color:#d00000;
+	text-decoration:none;
+}
+#main h1 a:hover, #main h2 a:hover, #main h3 a:hover, #main h4 a:hover, #main h5 a:hover, #main h6 a:hover {
+	color:#d00000;
+	text-decoration:none;
+}
+.h-header {
+	background:url(../h_header_bg.jpg) repeat-x;
+}
+a.button {
+    background:transparent url(../btn_span_a.png) no-repeat scroll top right;
+}
+a.button span {
+    background:transparent url(../btn_span_bg.png) no-repeat; 
+}
+.footer-menu a {
+	color:#d9d9d9;
+}
+.footer-menu a:hover {
+	color:#fff;
+	text-decoration:none;
+}
+#top .jqueryslidemenu .primary-menu .selected a {
+	color:#fff;
+}
+.box-list li a {
+	color:#5d5d5d;
+}
+.box-list li a:hover {
+	color:#d00000;
+	text-decoration:none;
+}
+blockquote {
+	border-left:6px solid #d00000;
+}
